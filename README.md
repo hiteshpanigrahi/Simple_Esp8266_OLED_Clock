@@ -41,7 +41,7 @@ A compact and stylish real-time clock project built using the **ESP8266 NodeMCU*
 ---
 
 ## 📸 Project Showcase
-![Project Image](Project Images/6.jpg)  
+![Project Image](https://github.com/hiteshpanigrahi/Simple_Esp8266_OLED_Clock/blob/main/Project%20Images/6.jpg)  
 _A sleek, minimalistic design with an easy-to-read OLED display._
 
 ---
