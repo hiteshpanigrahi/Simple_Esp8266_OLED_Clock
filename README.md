@@ -46,7 +46,7 @@ _A sleek, minimalistic design with an easy-to-read OLED display._
 
 ---
 
-##💡 Insights
+## 💡 Insights
 This project highlights the integration of IoT and embedded systems to build an accurate clock. It's a great beginner-friendly project for those learning about:
 
 Networking with ESP
@@ -55,21 +55,21 @@ NTP protocols for time synchronization
 
 ---
 
-##🤝 Contributing
+## 🤝 Contributing
 Feel free to fork this repository and submit pull requests to improve the project! Whether it's adding new features or fixing bugs, contributions are always welcome.
 
 ---
 
-##📸 Showcase Your Build!
+## 📸 Showcase Your Build!
 If you create your own version, share it with the world! Tag me on LinkedIn or create an issue here with your build pictures.
 
 ---
 
-##📜 License
+## 📜 License
 This project is licensed under the MIT License.
 
 ---
 
-##🛠️ Author
+## 🛠️ Author
 Hitesh Panigrahi
 Passionate about IoT and electronics projects!
